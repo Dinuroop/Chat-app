@@ -210,7 +210,7 @@ overflow: hidden;
   .recieved {
     justify-content: flex-start;
     .content {
-      background-color: #7c6bc9;
+      background-color: #254c61;
     }
   }
 }

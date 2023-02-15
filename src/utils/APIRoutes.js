@@ -1,4 +1,4 @@
-export const host = "http://localhost:3000"; 
+export const host = "http://localhost:3002"; 
 //"http://192.168.137.1:3000";
 //  "http://localhost:3000"; 
 //"http://172.16.3.75:3000"
